@@ -1,0 +1,10 @@
+Sources & visual notes ⚽
+
+Data: Pappalardo & Massucco, Wyscout public football events (CC BY 4.0): https://doi.org/10.6084/m9.figshare.7770599.v1
+598 direct free-kick attempts from 30 ≤ distance < 40 metres, across England, France, Germany, Italy and Spain in 2017/18. Carlos’s 1997 goal is not part of that sample. Each dot is one recorded attempt; colors identify leagues, not scoring chances. Coincident origins use short vertical stacks; ground coordinates remain unchanged.
+
+Archive reference: EHcomps, creator-selected Roberto Carlos footage: https://www.youtube.com/watch?v=zhY9bpLTZGg (20.90–23.94). Cleanup: Real-ESRGAN general-x4v3; original frame rate retained.
+
+Carlos cutout: AI-generated illustration, not match tracking. Stadium: illustrative venue. Grass texture: ambientCG Grass004 (CC0). Fonts: Archivo Black and JetBrains Mono (SIL Open Font License).
+
+Visual reference for progressive shot reveals: Angus MacMinn’s Fixtures 15/16, https://www.angusmacminn.com/projects/fixtures . No reference assets or code copied.
