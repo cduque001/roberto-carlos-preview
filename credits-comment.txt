@@ -14,3 +14,11 @@ Complete cut: the labeled outcome categories use the verified counts. Twenty cou
 Matchday revision: short example footage from the Premier League official channel: woodwork https://www.youtube.com/watch?v=wa1ORli2Nyo (17.35–19.92s), free-kick save https://www.youtube.com/watch?v=QDKM7Iwrq5E (0–2.73s). These excerpts illustrate outcomes; they are not identified as events in the 598-attempt sample. Code-animated ball flights, wall block, miss and goal are illustrations, not tracking reconstructions.
 
 Detail revision: wall players, crowd and ball flights are illustrative. Twenty footballs count the twenty recorded goals, not tracked flight paths. The approximate one-in-thirty view describes the 2017/18 sample. The ending invites a next free-kick suggestion.
+
+League logo artwork, displayed unchanged:
+- premier-league: https://commons.wikimedia.org/wiki/File:Pl-logo-light.svg
+- bundesliga: https://en.wikipedia.org/wiki/File:Bundesliga_logo_(2017).svg
+- serie-a: https://it.wikipedia.org/wiki/File:Serie_A_logo_2016.svg
+- laliga: https://www.footylogos.com/logos/laliga-spain
+- ligue-1: https://commons.wikimedia.org/wiki/File:Ligue1.svg
+League trademarks belong to their respective owners.
