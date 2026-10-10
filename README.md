@@ -2,9 +2,9 @@
 
 [Watch on your phone](https://cduque001.github.io/roberto-carlos-preview/) and tap **Play**.
 
-[Download the finished 1080 × 1920 MP4](https://cduque001.github.io/roberto-carlos-preview/finished/roberto-carlos-unexpected-expert.mp4). The selected narration voice is The Unexpected Expert, round two option 15.
+[Download the finished 1080 × 1920 MP4](https://cduque001.github.io/roberto-carlos-preview/dragon/roberto-carlos-stadium-dragon.mp4). The selected narration voice is The Stadium Dragon, excited cartoon round five option 10.
 
-Finished Unexpected Expert cut, 53.5 seconds: the original Carlos goal and illustration, brief data views, field-level ball animation, illustrated blocks and misses, genuine woodwork and save excerpts, a twenty-goal count, a full original replay and an invitation to choose the next free kick.
+Finished Stadium Dragon cut, 51.3 seconds: the original Carlos goal and illustration, brief data views, field-level ball animation, illustrated blocks and misses, genuine woodwork and save excerpts, a twenty-goal count, a full original replay and an invitation to choose the next free kick.
 
 ## Credits
 
