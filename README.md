@@ -2,9 +2,9 @@
 
 [Watch on your phone](https://cduque001.github.io/roberto-carlos-preview/) and tap **Play**.
 
-[Download the finished 1080 × 1920 MP4](https://cduque001.github.io/roberto-carlos-preview/showman/roberto-carlos-showman.mp4). The selected narration voice is Showman, the existing ElevenLabs voice, with smoother scene transitions.
+[Download the finished 1080 × 1920 MP4](https://cduque001.github.io/roberto-carlos-preview/showman-rhythm/roberto-carlos-showman-rhythm.mp4). The selected narration voice is Showman, the existing ElevenLabs voice, with smoother scene transitions and a phrase-aware pace of about 191 words per minute.
 
-Finished Showman cut, 49.6 seconds: the original Carlos goal and illustration, brief data views, field-level ball animation, illustrated blocks and misses, genuine woodwork and save excerpts, a twenty-goal count, a full original replay and an invitation to choose the next free kick.
+Finished Showman rhythm cut, 40.5 seconds: the original Carlos goal and illustration, brief data views, field-level ball animation, illustrated blocks and misses, genuine woodwork and save excerpts, a twenty-goal count, a full original replay and an invitation to choose the next free kick.
 
 ## Credits
 
